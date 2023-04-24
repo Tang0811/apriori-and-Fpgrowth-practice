@@ -1,3 +1,21 @@
+# 作業目標
+目標:
+練習pre-processing、discretize、reduce dimensionality
+自己寫程式、不會的時候看懂別人寫的github程式
+找出interesting的rule
+了解資料!(特性、數目、領域、留下的欄位attribute、欄位性質、用來的tasks、空/缺失的欄位、hits點閱)
+			
+		stockCode	商品編號
+		Quantity	賣了多少
+		Date	交易時間
+		Unitprice	價錢/盒
+		Customer ID	客戶名
+		Country	國家
+
+
+
+
+
 #  Frequent Itemset Mining
 
 
